@@ -1,0 +1,70 @@
+{
+  "reviewed_at": "2026-09-30",
+  "starts_at": "2026-10-26T00:00:00+05:45",
+  "ends_at": "2026-11-22T00:00:00+05:45",
+  "date_label": "26 October \u2013 21 November 2026",
+  "venue": "TU International Cricket Stadium, Kirtipur",
+  "news": [
+    {
+      "title": "Lumbini and Sudurpaschim to open Season 3",
+      "category": "Schedule",
+      "published": "2026-09-20",
+      "summary": "The reported schedule opens with Lumbini Lions against Sudurpaschim Royals on October 26. The final is scheduled for November 21.",
+      "source": "The Kathmandu Post",
+      "url": "https://kathmandupost.com/cricket/2026/09/20/lumbini-lions-to-face-sudurpaschim-royals-in-npl-opener"
+    },
+    {
+      "title": "The next chapter has its dates",
+      "category": "League",
+      "published": "2026-09-08",
+      "summary": "Season 3 is scheduled for October 26\u2013November 21. Follow the build-up here, alongside the evidence from the first two seasons.",
+      "source": "NPL T20 League (independent coverage)",
+      "url": "https://nplt20league.com/news/npl-season-3-dates-october-26-november-21/"
+    },
+    {
+      "title": "52 players retained ahead of the new season",
+      "category": "Squads",
+      "published": "2026-06-20",
+      "summary": "Retention decisions shape the next campaign. Historical team associations on this site should not be read as confirmed Season 3 squads.",
+      "source": "The Kathmandu Post",
+      "url": "https://kathmandupost.com/sports/2026/06/20/52-players-retained-by-teams-for-npl-season-3"
+    }
+  ],
+  "milestones": [
+    {
+      "date": "26 Oct",
+      "label": "Opening match"
+    },
+    {
+      "date": "17 Nov",
+      "label": "Qualifier 1"
+    },
+    {
+      "date": "18 Nov",
+      "label": "Eliminator"
+    },
+    {
+      "date": "19 Nov",
+      "label": "Qualifier 2"
+    },
+    {
+      "date": "21 Nov",
+      "label": "The final"
+    }
+  ],
+  "watchlist": [
+    "Sandeep Lamichhane",
+    "Dipendra Singh Airee",
+    "Kushal Bhurtel",
+    "Aasif Sheikh",
+    "Binod Bhandari",
+    "Aarif Sheikh"
+  ],
+  "cost_records": [],
+  "image": {
+    "path": "/media/npl-season-three.jpg",
+    "alt": "Floodlit cricket stadium viewed from above at night",
+    "source": "https://nplt20league.com/news/npl-season-3-dates-october-26-november-21/",
+    "credit": "Archive image via NPL T20 League; rights remain with the original owner."
+  }
+}

@@ -1,4 +1,5 @@
 export const destinations = [
+  {path:'season-3',name:'Season 3',view:'Season 3',description:'The next campaign. Dates, news and player form.'},
   {path:'league',name:'League',view:'League',description:'Two seasons. Eight teams.'},
   {path:'players',name:'Players',view:'Players',description:'Performance, innings and consistency.'},
   {path:'teams',name:'Teams',view:'Teams',description:'Squads, spending and results.'},

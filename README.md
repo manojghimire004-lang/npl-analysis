@@ -46,3 +46,12 @@ After buying a domain, set it in **Settings → Pages → Custom domain** and fo
 ## Media
 
 Player portraits and team marks retain their owners' rights; see the media ledger. The Himalayan photograph is credited to Bijay Chaurasia under CC BY-SA 4.0. The hero pose is an AI-edited editorial image and is labelled on the site. Source publication does not grant rights to third-party media.
+
+## Season 3 updates
+
+The `/season-3/` page and homepage preview read `public/data/season-three.json`.
+News entries require a title, category (`Schedule`, `Squads`, or `League`), publication date, short original summary, source name, and source URL. Keep newest stories first and update `reviewed_at` after verification. `milestones` contains the reported 2026 schedule. Update `starts_at`, `ends_at`, and `date_label` together if dates change.
+
+`cost_records` is initially empty: no historical salary is assumed to apply to Season 3. Add only verified domestic records with `player`, numeric `price_lakh`, and `source_url`. These list acquisition prices, not cost efficiency; efficiency requires validated Season 3 match data and a separate implementation. Player charts read the existing historical dataset and do not predict future performance or imply current squad selection.
+
+Run `PAGES_BASE_PATH=/npl-analysis node scripts/build-github-pages.mjs` before publishing source changes. A push to `main` triggers GitHub Pages deployment.

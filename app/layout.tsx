@@ -1,3 +1,4 @@
+import './season-three.css';
 import type { Metadata } from "next";
 import "./globals.css";
 import "./story.css";
