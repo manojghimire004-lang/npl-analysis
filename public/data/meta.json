@@ -1,0 +1,15 @@
+{
+  "dataset_version": "2.0.0",
+  "last_updated": "2026-09-23",
+  "research_status": "partial",
+  "source_performance_sha256": "73fe7eba63f1f9e9bdc8a875e45427e61d2c676c32061e1ad2a653af06d6c19f",
+  "methodology_version": "role-season-midrank-2.0",
+  "original_columns": 144,
+  "analysis_columns": 295,
+  "marquee_scenario": {
+    "salary_per_season_npr": 2000000,
+    "source": "project_owner",
+    "note": "Project-owner assumption: every marquee player receives NPR 2,000,000 in each of 2024/25 and 2025/26. Not independently verified payment evidence.",
+    "updated": "2026-09-27"
+  }
+}

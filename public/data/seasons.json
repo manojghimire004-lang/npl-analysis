@@ -1,0 +1,38 @@
+[
+  {
+    "season_id": "npl-2024",
+    "source_season": "2024/25",
+    "display_name": "NPL 2024 · Season 1",
+    "short_name": "NPL 2024",
+    "season_number": 1,
+    "calendar_year": 2024,
+    "status": "completed",
+    "expected_matches": 32,
+    "expected_teams": 8,
+    "league_games_per_team": 7,
+    "start_date": "2024-11-30",
+    "end_date": "2024-12-21",
+    "champion": "Janakpur Bolts",
+    "runner_up": "Sudur Paschim Royals",
+    "source_id": "raw",
+    "confidence": "match_derived"
+  },
+  {
+    "season_id": "npl-2025",
+    "source_season": "2025/26",
+    "display_name": "NPL 2025 · Season 2",
+    "short_name": "NPL 2025",
+    "season_number": 2,
+    "calendar_year": 2025,
+    "status": "completed",
+    "expected_matches": 32,
+    "expected_teams": 8,
+    "league_games_per_team": 7,
+    "start_date": "2025-11-17",
+    "end_date": "2025-12-13",
+    "champion": "Lumbini Lions",
+    "runner_up": "Sudur Paschim Royals",
+    "source_id": "raw",
+    "confidence": "match_derived"
+  }
+]

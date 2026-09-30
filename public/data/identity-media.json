@@ -1,0 +1,92 @@
+{
+  "Janakpur Bolts": {
+    "path": "/media/janakpur-bolts.webp",
+    "kind": "logo",
+    "source": "https://boltsjanakpur.com/",
+    "season": null
+  },
+  "Kathmandu Gorkhas": {
+    "path": "/media/kathmandu-gorkhas.webp",
+    "kind": "logo",
+    "source": "https://boltsjanakpur.com/",
+    "season": "2024/25"
+  },
+  "Biratnagar Kings": {
+    "path": "/media/biratnagar-kings.webp",
+    "kind": "logo",
+    "source": "https://boltsjanakpur.com/",
+    "season": null
+  },
+  "Chitwan Rhinos": {
+    "path": "/media/chitwan-rhinos.webp",
+    "kind": "logo",
+    "source": "https://chitwanrhinos.com/about",
+    "season": null
+  },
+  "Lumbini Lions": {
+    "path": "/media/lumbini-lions.webp",
+    "kind": "logo",
+    "source": "https://boltsjanakpur.com/",
+    "season": null
+  },
+  "Karnali Yaks": {
+    "path": "/media/karnali-yaks.webp",
+    "kind": "logo",
+    "source": "https://www.karnaliyaks.com/",
+    "season": null
+  },
+  "Sudur Paschim Royals": {
+    "path": "/media/sudur-paschim-royals.webp",
+    "kind": "logo",
+    "source": "https://sudurpaschimroyals.com/",
+    "season": null
+  },
+  "Pokhara Avengers": {
+    "path": "/media/pokhara-avengers.webp",
+    "kind": "logo",
+    "source": "https://pokharaavengers.com/our-team",
+    "season": null
+  },
+  "Aasif Sheikh": {
+    "path": "/media/aasif-sheikh.webp",
+    "kind": "portrait",
+    "source": "https://boltsjanakpur.com/asif-sheikh",
+    "season": null
+  },
+  "Kushal Bhurtel": {
+    "path": "/media/kushal-bhurtel.webp",
+    "kind": "portrait",
+    "source": "https://pokharaavengers.com/our-team",
+    "season": null
+  },
+  "Sandeep Lamichhane": {
+    "path": "/media/sandeep-lamichhane.webp",
+    "kind": "portrait",
+    "source": "https://www.biratkings.com/",
+    "season": null
+  },
+  "Dipendra Singh Airee": {
+    "path": "/media/dipendra-singh-airee.jpg",
+    "kind": "portrait",
+    "source": "https://sudurpaschimroyals.com/squad",
+    "season": null
+  },
+  "Aarif Sheikh": {
+    "path": "/media/aarif-sheikh.jpg",
+    "kind": "portrait",
+    "source": "https://sudurpaschimroyals.com/squad",
+    "season": null
+  },
+  "Binod Bhandari": {
+    "path": "/media/binod-bhandari.jpg",
+    "kind": "portrait",
+    "source": "https://sudurpaschimroyals.com/squad",
+    "season": null
+  },
+  "Abinash Bohara": {
+    "path": "/media/abinash-bohara.jpg",
+    "kind": "portrait",
+    "source": "https://sudurpaschimroyals.com/squad",
+    "season": null
+  }
+}

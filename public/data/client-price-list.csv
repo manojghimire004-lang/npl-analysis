@@ -1,0 +1,115 @@
+Player,Season,Category,Team,Price (NPR Lakh)
+Lokesh Bam,NPL 1,A,Biratnagar Kings,15
+Pratish GC,NPL 1,A,Biratnagar Kings,15
+Bashir Ahmad,NPL 1,B,Biratnagar Kings,10
+Rajesh Pulami Magar,NPL 1,C,Biratnagar Kings,5
+Jitendra Kumar Mukhiya,NPL 1,C,Biratnagar Kings,5
+Anil Kharel,NPL 1,C,Biratnagar Kings,5
+Dipak Bohara,NPL 1,C,Biratnagar Kings,5
+Subhash Bhandari,NPL 1,D,Biratnagar Kings,2.5
+Naren Bhatta,NPL 1,D,Biratnagar Kings,2
+Rijan Dhakal,NPL 1,B,Chitwan Rhinos,10
+Kamal Singh Airee,NPL 1,B,Chitwan Rhinos,10
+Sharad Vesawkar,NPL 1,B,Chitwan Rhinos,10
+Bipin Rawal,NPL 1,B,Chitwan Rhinos,8
+Santosh Karki,NPL 1,C,Chitwan Rhinos,5
+Dipesh Shrestha,NPL 1,C,Chitwan Rhinos,5
+Amar Singh Rautela,NPL 1,C,Chitwan Rhinos,5
+Deepak Bohara,NPL 1,C,Chitwan Rhinos,5
+Ranjeet Kumar,NPL 1,D,Chitwan Rhinos,3
+Lalit Rajbanshi,NPL 1,A,Janakpur Bolts,15
+Anil Kumar Sah,NPL 1,A,Janakpur Bolts,15
+Rupesh K Singh,NPL 1,B,Janakpur Bolts,10
+Kishore Mahato,NPL 1,B,Janakpur Bolts,10
+Aakash Tripathi,NPL 1,B,Janakpur Bolts,10
+Shubh Kansakar,NPL 1,C,Janakpur Bolts,5
+Sher Malla,NPL 1,C,Janakpur Bolts,5
+Hemant Dhami,NPL 1,C,Janakpur Bolts,5
+Arniko Prasad Yadav,NPL 1,D,Janakpur Bolts,2.25
+Tul Bahadur Thapa Magar,NPL 1,D,Janakpur Bolts,2
+Gulshan Kumar Jha,NPL 1,A,Karnali Yaks,15
+Nandan Yadav,NPL 1,B,Karnali Yaks,11
+Mausam Dhakal,NPL 1,B,Karnali Yaks,10
+Arjun Gharti,NPL 1,B,Karnali Yaks,10
+Dev Khanal,NPL 1,B,Karnali Yaks,10
+Rit Gautam,NPL 1,C,Karnali Yaks,5
+Bhuban Karki,NPL 1,C,Karnali Yaks,5
+Dipendra Rawat,NPL 1,D,Karnali Yaks,3
+Dipak Dumre,NPL 1,D,Karnali Yaks,3
+Unish Bikram Singh Thakuri,NPL 1,D,Karnali Yaks,2
+Shahab Alam,NPL 1,A,Kathmandu Gorkhas,15
+Bhim Sharki,NPL 1,A,Kathmandu Gorkhas,15
+Rashid Khan,NPL 1,B,Kathmandu Gorkhas,10
+Shankar Rana,NPL 1,B,Kathmandu Gorkhas,9.5
+Dipesh Prasad Kandel,NPL 1,C,Kathmandu Gorkhas,5
+Sumit Maharjan,NPL 1,C,Kathmandu Gorkhas,5
+Krishna Karki,NPL 1,C,Kathmandu Gorkhas,5
+Bibek KC,NPL 1,D,Kathmandu Gorkhas,2
+Surya Tamang,NPL 1,A,Lumbini Lions,15
+Bibek Yadav,NPL 1,A,Lumbini Lions,15
+Sundeep Jora,NPL 1,A,Lumbini Lions,15
+Aashutosh Ghiraiya,NPL 1,B,Lumbini Lions,10
+Tilak Raj Bhandari,NPL 1,B,Lumbini Lions,10
+Durgesh Gupta,NPL 1,B,Lumbini Lions,8
+Arjun Saud,NPL 1,C,Lumbini Lions,5
+Dinesh Adhikari,NPL 1,D,Lumbini Lions,2.75
+Abhishesh Gautam,NPL 1,D,Lumbini Lions,2
+Bikash Aagri,NPL 1,D,Lumbini Lions,2
+Sagar Dhakal,NPL 1,A,Pokhara Avengers,15
+Akash Chand,NPL 1,B,Pokhara Avengers,11.5
+Kiran Kumar Thagunna,NPL 1,B,Pokhara Avengers,10
+Narayan Joshi,NPL 1,B,Pokhara Avengers,10
+Bipin Khatri,NPL 1,B,Pokhara Avengers,10
+Dilip Nath,NPL 1,B,Pokhara Avengers,10
+Trit Raj Das,NPL 1,C,Pokhara Avengers,5
+Sunam Gautam,NPL 1,C,Pokhara Avengers,5
+Dinesh Kharel,NPL 1,D,Pokhara Avengers,2
+Amrit Gurung,NPL 1,D,Pokhara Avengers,2
+Md Aarif Sheikh,NPL 1,A,Sudurpaschim Royals,15
+Abinash Bohara,NPL 1,B,Sudurpaschim Royals,12
+Binod Bhandari,NPL 1,B,Sudurpaschim Royals,10
+Ishan Pandey,NPL 1,B,Sudurpaschim Royals,9.5
+Arjun Kumal,NPL 1,B,Sudurpaschim Royals,7.5
+Khadak Bahadur Bohara,NPL 1,C,Sudurpaschim Royals,5
+Naresh Budhayer,NPL 1,C,Sudurpaschim Royals,5
+Bhoj Raj Bhatta,NPL 1,C,Sudurpaschim Royals,4.5
+Amit Shrestha,NPL 1,C,Sudurpaschim Royals,3.5
+Dev Khanal,NPL 2,A,Chitwan Rhinos,15
+Arjun Saud,NPL 2,A,Chitwan Rhinos,15
+Pawan Sarraf,NPL 2,A,Karnali Yaks,15
+Mohammad Aadil Alam,NPL 2,A,Kathmandu Gorkhas,15
+Hemant Dhami,NPL 2,B,Sudurpaschim Royals,10
+Sher Malla,NPL 2,B,Lumbini Lions,10
+Yuvraj Khatri,NPL 2,B,Karnali Yaks,10
+Dilip Nath,NPL 2,B,Lumbini Lions,10
+Surya Tamang,NPL 2,B,Biratnagar Kings,10
+Santosh Yadav,NPL 2,B,Kathmandu Gorkhas,10
+Mayan Yadav,NPL 2,B,Janakpur Bolts,7.75
+Aakash Tripathi,NPL 2,B,Kathmandu Gorkhas,7
+Narayan Joshi,NPL 2,B,Biratnagar Kings,5
+Arjun Kumal,NPL 2,B,Pokhara Avengers,5
+Dipak Bohara,NPL 2,B,Sudurpaschim Royals,5
+Milan Bohara,NPL 2,B,Sudurpaschim Royals,5
+Durgesh Gupta,NPL 2,B,Lumbini Lions,5
+Bipin Rawal,NPL 2,B,Chitwan Rhinos,5
+Shankar Rana,NPL 2,B,Biratnagar Kings,5
+Sahil Patel,NPL 2,B,Biratnagar Kings,5
+Aaditya Mahata,NPL 2,C,Janakpur Bolts,5
+Bikash Aagri,NPL 2,C,Janakpur Bolts,5
+Bishal Patel,NPL 2,C,Lumbini Lions,5
+Uttam Thapa Magar,NPL 2,C,Kathmandu Gorkhas,3
+Sachin Bhatta,NPL 2,C,Janakpur Bolts,2
+Abhishek Tiwari,NPL 2,C,Pokhara Avengers,2
+Dipendra Thapa,NPL 2,C,Sudurpaschim Royals,2
+Tul Bahadur Thapa Magar,NPL 2,C,Kathmandu Gorkhas,2
+Krishna Paudel,NPL 2,C,Pokhara Avengers,2
+Imran Sheikh,NPL 2,C,Karnali Yaks,2
+Deepak Prasad Dumre,NPL 2,C,Karnali Yaks,2
+Bikash Agri,NPL 2,C,Janakpur Bolts,2
+Sandeep Khatri Chhetri,NPL 2,C,Pokhara Avengers,2
+Aadil Khan,NPL 2,C,Lumbini Lions,2
+Bipin Acharya,NPL 2,C,Chitwan Rhinos,2
+Ranjeet Kumar,NPL 2,C,Chitwan Rhinos,2
+Shrawan Kisku,NPL 2,C,Biratnagar Kings,2
+Tek Bahadur Rawat,NPL 2,C,Sudurpaschim Royals,2
+Dipesh Thapa,NPL 2,C,Sudurpaschim Royals,2

@@ -1,0 +1,92 @@
+.site-header .brand{display:flex;align-items:center;gap:10px;min-width:0;flex-shrink:1}
+.site-header .brand>span{flex-shrink:0;margin-right:0}
+.brand-label{font-size:16px;line-height:1.2;letter-spacing:0;color:#f0f3f7!important}
+.brand-label small{font-size:13px;letter-spacing:.08em;color:#dc8e98;margin-top:4px}
+.cover-content h1{font-size:clamp(42px,5.4vw,82px);max-width:780px;line-height:1.06}
+.cover-section{background:radial-gradient(ellipse at 85% 25%,#243553,#0b1017 70%)}
+.stadium-backdrop{display:none}
+.league-logo{position:absolute;right:7%;top:20%;width:25%;max-width:380px;height:auto;object-fit:contain}
+.cover-content{max-width:70%}
+.cover-description{max-width:640px}
+.cover-section .story-shade{display:none}
+.workspace,.panel,.value-controls,.value-results,.filters>*{min-width:0}
+[data-slot=table-container]{max-width:100%;overscroll-behavior-x:contain}
+.hash{overflow-wrap:anywhere}
+@media(max-width:1200px){.quicknav{display:none}.site-header{gap:16px}.search-trigger{margin-left:auto}}
+@media(max-width:1024px){
+ .story-page .site-header{position:sticky;background:#0b1017f5}
+ .story-scroll{height:auto;overflow:visible;scroll-snap-type:none}
+ .story-section{height:auto!important;min-height:0!important;overflow:visible;padding:64px 6vw;scroll-snap-align:none;scroll-margin-top:90px;gap:32px}
+ .cover-section{padding-top:40px;display:flex;flex-direction:column;align-items:flex-start}
+ .cover-content{max-width:100%;width:100%}
+ .cover-content h1{max-width:720px;font-size:clamp(40px,6.5vw,66px)}
+ .league-logo{position:static;width:190px;max-height:180px;align-self:center;order:-1}
+ .cover-bottom{width:100%;margin-top:0}
+ .feature-links{width:100%;max-width:none;gap:0 24px}
+ .feature-links button{min-height:48px;padding:12px 0}
+ .feature-links svg{opacity:1;flex-shrink:0}
+ .cover-stat,.chapter-nav,.story-controls{display:none}
+ .performance-section,.price-section,.comparison-section{flex-direction:column;align-items:stretch}
+ .story-data,.spend-board,.comparison-type{width:100%;max-width:none}
+ .chapter-content{flex:none}.chapter-content h2{font-size:clamp(32px,5vw,48px)}
+ .evidence-section .chapter-content h2{font-size:clamp(36px,5vw,52px)}
+ .chapter-description,.cover-description{font-size:16px;max-width:100%}
+ .story-credit{position:static;max-width:none;margin-top:36px;font-size:13px}
+ .workspace{padding:30px 4vw}.detail-workspace{padding-top:32px}
+ .globalfilters{gap:12px}.seasonnote{width:100%;margin-left:0;font-size:13px;line-height:1.6}
+ .filters input,.filters [role=combobox]{font-size:16px}
+ .value-controls>label,.value-controls .note,.cohort-note span{font-size:14px}
+ .value-controls [role=combobox]{font-size:16px}
+ .player-cards small,.role-badge,.card-bottom,.value-triptych small,.value-triptych p,.value-triptych span,.value-triptych em{font-size:13px}
+ .card-bottom{flex-wrap:wrap}.value-explanation p{font-size:15px}
+ .profile-nav a,.back-link{min-height:44px;display:inline-flex;align-items:center;font-size:14px}
+ input,select,textarea{font-size:16px!important}
+}
+@media(max-width:600px){
+ .site-header{height:76px;padding:0 14px;gap:8px}
+ .brand-label{font-size:13px;max-width:155px}.brand-label small{font-size:12px}
+ .site-header .brand>span{width:27px;height:30px;font-size:17px}
+ .search-trigger{padding:8px;flex-shrink:0}.search-trigger span,.search-trigger kbd{display:none}
+ .menu-trigger{font-size:0;gap:0;width:44px;min-width:44px;justify-content:center}
+ .story-section{padding:44px 20px;scroll-margin-top:76px}
+ .cover-section{padding-top:24px;gap:24px}
+ .league-logo{width:150px;max-height:140px}
+ .cover-content h1{font-size:clamp(36px,9vw,50px);letter-spacing:-.045em}
+ .cover-description{max-width:none;font-size:16px;line-height:1.65;margin:20px 0}
+ .story-kicker{font-size:12px;letter-spacing:.1em}
+ .hero-cta{min-height:48px;gap:20px;font-size:16px}
+ .feature-links{grid-template-columns:1fr}.feature-links button{font-size:15px}
+ .evidence-grid{grid-template-columns:1fr}.evidence-grid a{padding:20px 0;min-height:60px}
+ .evidence-grid p{display:block;grid-column:2;font-size:14px;line-height:1.6}
+ .comparison-type{grid-template-columns:minmax(0,1fr) 24px minmax(0,1fr);gap:10px;padding:18px}
+ .comparison-type>span{font-size:clamp(17px,5vw,26px);overflow-wrap:anywhere}
+ .workspace{padding:24px 16px}.panel{padding:18px 14px}
+ .sectionhead{flex-wrap:wrap}.filters{display:grid;grid-template-columns:minmax(0,1fr)}
+ .filters>*{width:100%;max-width:100%!important}.globalfilters [role=combobox]{max-width:100%;font-size:16px}
+ .value-controls{grid-template-columns:minmax(0,1fr);padding:16px}
+ .detail-season{float:none;max-width:100%;margin:12px 0 0}.detail-season [role=combobox]{width:100%;font-size:16px}
+ .player-hero{margin-top:28px}.player-hero h1{font-size:36px;overflow-wrap:anywhere}
+ .profile-nav{top:76px;gap:20px}.player-card-top label{font-size:14px;min-height:44px}
+ .card-stat-row{grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+ .match-scoreboard{flex-wrap:wrap}.match-scoreboard b{font-size:32px}
+ .percentile{grid-template-columns:minmax(100px,1fr) minmax(50px,1fr) 32px;gap:8px}
+ .mega-menu{padding:70px 20px 30px!important}.mega-links small{font-size:14px}
+ footer{font-size:13px;line-height:1.7}
+}
+
+/* Large league mark sits behind the homepage content on every screen. */
+.cover-section{isolation:isolate;overflow:hidden;background:radial-gradient(ellipse at 80% 35%,#263a56,#0b1017 75%)}
+.league-logo{position:absolute;z-index:-1;inset:8% 2% auto auto;width:76%;max-width:1200px;height:auto;max-height:none;opacity:.44;filter:brightness(2.1);pointer-events:none;user-select:none;order:initial}
+.cover-section .story-shade{display:block;z-index:0;background:linear-gradient(90deg,#0b1017ed 0%,#0b1017bd 32%,#0b101714 80%),linear-gradient(0deg,#0b1017e0,transparent 75%);pointer-events:none}
+.cover-content{max-width:75%}
+@media(max-width:1024px){
+ .cover-section{min-height:680px!important;padding-top:72px;justify-content:center}
+ .league-logo{position:absolute;width:96%;max-width:none;max-height:none;top:18%;right:2%;opacity:.3;align-self:auto}
+ .cover-content{max-width:100%}
+ .cover-section .story-shade{background:linear-gradient(90deg,#0b1017c9,#0b101730),linear-gradient(0deg,#0b1017ed,transparent 90%)}
+}
+@media(max-width:600px){
+ .cover-section{padding-top:70px;padding-bottom:44px;min-height:740px!important}
+ .league-logo{width:96%;right:2%;top:16%;opacity:.4}
+ .cover-content h1{max-width:340px}
+}

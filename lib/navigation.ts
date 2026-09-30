@@ -1,0 +1,17 @@
+export const destinations = [
+  {path:'league',name:'League',view:'League',description:'Two seasons. Eight teams.'},
+  {path:'players',name:'Players',view:'Players',description:'Performance, innings and consistency.'},
+  {path:'teams',name:'Teams',view:'Teams',description:'Squads, spending and results.'},
+  {path:'matches',name:'Matches',view:'Matches',description:'Every match and every meeting.'},
+  {path:'standings',name:'Standings',view:'Seasons',description:'League tables and the playoff path.'},
+  {path:'cost-analysis',name:'Cost Analysis',view:'Cost Analysis',description:'Marquee allocation, team spending and cost efficiency.'},
+  {path:'auction',name:'Auction',view:'Auction',description:'Reported prices and retained players.'},
+  {path:'value-lab',name:'Value Lab',view:'Value Lab',description:'Performance against acquisition cost.'},
+  {path:'trust-index',name:'Season Outlook',view:'Next Season',description:'Experimental production outlooks, with uncertainty.'},
+  {path:'data',name:'Data',view:'Data',description:'One analysis CSV. Versioned, reproducible evidence.'},
+  {path:'qa',name:'Data Quality',view:'QA',description:'Coverage, unresolved records and validation.'},
+  {path:'compare',name:'Compare',view:'Compare',description:'Put up to four players side by side.'},
+  {path:'research',name:'Research',view:'Research',description:'Coverage, review decisions and data.'},
+  {path:'methodology',name:'Methodology',view:'Methodology',description:'Definitions, assumptions and limits.'},
+  {path:'sources',name:'Sources',view:'Sources',description:'Follow each claim to its evidence.'},
+];

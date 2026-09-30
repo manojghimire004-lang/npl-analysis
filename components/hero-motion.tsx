@@ -1,0 +1,4 @@
+"use client";
+import {useState} from 'react';
+import {useReducedMotion} from 'framer-motion';
+export default function HeroMotion(){const[paused,setPaused]=useState(false);const reduced=useReducedMotion();return <div className="hero-motion"><div className={'spin-portrait '+(paused||reduced?'motion-paused':'')}><img className="spin-player" src="/media/sandeep-editorial-spin.png" alt="Editorial image of Sandeep Lamichhane balancing a cricket ball on his raised finger" width="1086" height="1448"/><img className="spin-ball" src="/media/white-cricket-ball.png" alt="" width="1254" height="1254"/></div><div className="motion-caption"><small>AI-edited editorial pose</small><button onClick={()=>setPaused(!paused)} disabled={!!reduced}>{reduced?'Reduced motion':paused?'Play animation':'Pause animation'}</button></div></div>}
