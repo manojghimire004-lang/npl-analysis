@@ -2,7 +2,7 @@
   "reviewed_at": "2026-09-30",
   "starts_at": "2026-10-26T00:00:00+05:45",
   "ends_at": "2026-11-22T00:00:00+05:45",
-  "date_label": "26 October \u2013 21 November 2026",
+  "date_label": "26 October – 21 November 2026",
   "venue": "TU International Cricket Stadium, Kirtipur",
   "news": [
     {
@@ -14,12 +14,36 @@
       "url": "https://kathmandupost.com/cricket/2026/09/20/lumbini-lions-to-face-sudurpaschim-royals-in-npl-opener"
     },
     {
+      "title": "Charith Asalanka joins Biratnagar Kings",
+      "category": "Squads",
+      "published": "2026-09-18",
+      "summary": "Cricnepal reports that Biratnagar announced Sri Lanka international Charith Asalanka through its official social channels. His signing adds a left-handed batting and off-spin option; match availability and selection are not guaranteed.",
+      "source": "Cricnepal",
+      "url": "https://www.cricnepal.com/charith-asalanka-biratnagar-kings-npl"
+    },
+    {
+      "title": "David Warner signs for Kathmandu Gorkhas",
+      "category": "Squads",
+      "published": "2026-09-15",
+      "summary": "Kathmandu announced David Warner in a player video shared by the franchise, according to The Kathmandu Post. No verified fee is included in this dataset, so the overseas signing does not enter domestic cost comparisons.",
+      "source": "The Kathmandu Post",
+      "url": "https://kathmandupost.com/sports/2026/09/15/david-warner-joins-kathmandu-gorkhas-for-npl-season-3"
+    },
+    {
       "title": "The next chapter has its dates",
       "category": "League",
       "published": "2026-09-08",
-      "summary": "Season 3 is scheduled for October 26\u2013November 21. Follow the build-up here, alongside the evidence from the first two seasons.",
+      "summary": "Season 3 is scheduled for October 26–November 21. Follow the build-up here, alongside the evidence from the first two seasons.",
       "source": "NPL T20 League (independent coverage)",
       "url": "https://nplt20league.com/news/npl-season-3-dates-october-26-november-21/"
+    },
+    {
+      "title": "Aasif Sheikh joins Lumbini for NPR 20 lakh",
+      "category": "Squads",
+      "published": "2026-07-07",
+      "summary": "Cricnepal reports Aasif Sheikh's Season 3 auction move from the released-player pool to Lumbini Lions for NPR 20 lakh. Onlinekhabar separately reports the same price. This is an acquisition price; Season 3 cost efficiency awaits recorded match performance.",
+      "source": "Cricnepal",
+      "url": "https://www.cricnepal.com/aasif-sheikh-tops-npl-season-3-auction-at-npr-20-lakh-as-lumbini-lions-go-big"
     },
     {
       "title": "52 players retained ahead of the new season",
@@ -60,7 +84,13 @@
     "Binod Bhandari",
     "Aarif Sheikh"
   ],
-  "cost_records": [],
+  "cost_records": [
+    {
+      "player": "Aasif Sheikh",
+      "price_lakh": 20,
+      "source_url": "https://www.onlinekhabar.com/2026/07/1970394/asif-released-from-janakpur-signs-with-lumbini-lions"
+    }
+  ],
   "image": {
     "path": "/media/npl-season-three.jpg",
     "alt": "Floodlit cricket stadium viewed from above at night",
