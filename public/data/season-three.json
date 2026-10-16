@@ -1,10 +1,18 @@
 {
-  "reviewed_at": "2026-10-15",
+  "reviewed_at": "2026-10-16",
   "starts_at": "2026-10-26T00:00:00+05:45",
   "ends_at": "2026-11-22T00:00:00+05:45",
   "date_label": "26 October – 21 November 2026",
   "venue": "TU International Cricket Stadium, Kirtipur",
   "news": [
+    {
+      "title": "CAN confirms ICC sanction for Season 3",
+      "category": "League",
+      "published": "2026-10-16",
+      "summary": "CAN announced on October 16 that the ICC has approved the third Nepal Premier League, according to The Kathmandu Post. This resolves the previously pending sanction application. The reported tournament dates remain October 26–November 21; no historical statistics or player prices have been revised.",
+      "source": "The Kathmandu Post",
+      "url": "https://kathmandupost.com/sports/2026/10/16/icc-finally-recognises-nepal-premier-league"
+    },
     {
       "title": "Biratnagar and Sudurpaschim prepare at training camps in India",
       "category": "League",
@@ -54,10 +62,10 @@
       "url": "https://www.cricnepal.com/meet-npl-mascots-name-meanings"
     },
     {
-      "title": "CAN still awaits written ICC sanction",
+      "title": "October 5: CAN was awaiting written ICC sanction",
       "category": "League",
       "published": "2026-10-05",
-      "summary": "CAN secretary Paras Khadka says feedback on the Season 3 sanction application has been positive, but written ICC approval is still required before CAN can confirm it. The application should therefore be treated as pending.",
+      "summary": "On October 5, CAN secretary Paras Khadka said feedback on the Season 3 sanction application was positive but written approval was still pending. This historical status was superseded by CAN’s October 16 announcement confirming ICC sanction.",
       "source": "Cricnepal",
       "url": "https://www.cricnepal.com/paras-khadka-npl-icc-sanction-update"
     },
