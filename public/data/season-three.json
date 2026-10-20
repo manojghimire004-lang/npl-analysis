@@ -1,10 +1,18 @@
 {
-  "reviewed_at": "2026-10-19",
+  "reviewed_at": "2026-10-20",
   "starts_at": "2026-10-26T00:00:00+05:45",
   "ends_at": "2026-11-22T00:00:00+05:45",
   "date_label": "26 October – 21 November 2026",
   "venue": "TU International Cricket Stadium, Kirtipur",
   "news": [
+    {
+      "title": "CAN confirms DRS for Season 3",
+      "category": "League",
+      "published": "2026-10-20",
+      "summary": "CAN announced that Season 3 will introduce the Decision Review System, according to The Kathmandu Post. The announced technology includes 3D ball tracking for LBW decisions and AI-based edge detection, with reviews also covering run-outs, stumpings and no-ball calls. This supersedes the earlier pending-decision status.",
+      "source": "The Kathmandu Post",
+      "url": "https://kathmandupost.com/cricket/2026/10/20/nepal-premier-league-to-introduce-drs-for-third-edition"
+    },
     {
       "title": "Chamika Karunaratne joins Pokhara Avengers",
       "category": "Squads",
@@ -30,10 +38,10 @@
       "url": "https://kathmandupost.com/cricket/2026/10/18/andre-russell-to-play-for-biratnagar-kings-in-nepal-premier-league"
     },
     {
-      "title": "CAN outlines player eligibility rules; DRS decision pending",
+      "title": "October 17: CAN outlines eligibility rules while DRS decision was pending",
       "category": "League",
       "published": "2026-10-17",
-      "summary": "CAN secretary Paras Khadka says all overseas players, including retired internationals, need clearance from their home boards. The announced playing XI balance is seven Nepali and four overseas players, with ICC anti-corruption rules enforced. DRS discussions are advanced, but a formal announcement is still pending.",
+      "summary": "CAN secretary Paras Khadka said overseas players, including retired internationals, need clearance from their home boards. The announced playing XI balance was seven Nepali and four overseas players, with ICC anti-corruption rules enforced. DRS was still pending at this briefing; CAN confirmed its introduction on October 20.",
       "source": "Nepal News",
       "url": "https://english.nepalnews.com/s/sports/icc-rules-to-tighten-player-eligibility-and-anti-corruption-measures-in-npl-paras-khadka-2/"
     },
