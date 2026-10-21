@@ -1,10 +1,26 @@
 {
-  "reviewed_at": "2026-10-20",
+  "reviewed_at": "2026-10-21",
   "starts_at": "2026-10-26T00:00:00+05:45",
   "ends_at": "2026-11-22T00:00:00+05:45",
   "date_label": "26 October – 21 November 2026",
   "venue": "TU International Cricket Stadium, Kirtipur",
   "news": [
+    {
+      "title": "CAN says ICC has granted official status to every Season 3 match",
+      "category": "League",
+      "published": "2026-10-21",
+      "summary": "CAN said the ICC has granted official status to every Season 3 match, according to Nepal News. The source describes the classification as “List A T20”; this entry preserves the substance of CAN’s announcement without treating the mixed-format label as a separate statistical category.",
+      "source": "Nepal News",
+      "url": "https://english.nepalnews.com/s/sports/icc-grants-list-a-status-to-all-npl-matches/"
+    },
+    {
+      "title": "CAN revises Season 3 match start times",
+      "category": "Schedule",
+      "published": "2026-10-20",
+      "summary": "Following the introduction of DRS, CAN revised the schedule so double-header days begin at 12:30 p.m. and 5:00 p.m. Nepal time, while single-match days begin at 5:00 p.m. Tournament dates and playoff milestones remain unchanged.",
+      "source": "The Himalayan Times",
+      "url": "https://thehimalayantimes.com/sports/drs-to-be-used-in-all-nepal-premier-league-matches"
+    },
     {
       "title": "CAN confirms DRS for Season 3",
       "category": "League",
