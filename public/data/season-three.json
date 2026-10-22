@@ -1,17 +1,25 @@
 {
-  "reviewed_at": "2026-10-21",
+  "reviewed_at": "2026-10-22",
   "starts_at": "2026-10-26T00:00:00+05:45",
   "ends_at": "2026-11-22T00:00:00+05:45",
   "date_label": "26 October – 21 November 2026",
   "venue": "TU International Cricket Stadium, Kirtipur",
   "news": [
     {
-      "title": "CAN says ICC has granted official status to every Season 3 match",
-      "category": "League",
-      "published": "2026-10-21",
-      "summary": "CAN said the ICC has granted official status to every Season 3 match, according to Nepal News. The source describes the classification as “List A T20”; this entry preserves the substance of CAN’s announcement without treating the mixed-format label as a separate statistical category.",
+      "title": "Hussain Talat joins Karnali Yaks",
+      "category": "Squads",
+      "published": "2026-10-22",
+      "summary": "Karnali Yaks announced Pakistan all-rounder Hussain Talat as an overseas signing for Season 3, according to Nepal News. No verified fee was reported, so the signing is excluded from domestic acquisition-cost analysis.",
       "source": "Nepal News",
-      "url": "https://english.nepalnews.com/s/sports/icc-grants-list-a-status-to-all-npl-matches/"
+      "url": "https://english.nepalnews.com/s/sports/pakistans-hussain-talat-to-play-npl-for-karnali-yaks/"
+    },
+    {
+      "title": "Season 3 performances will count in official T20 statistics",
+      "category": "League",
+      "published": "2026-10-22",
+      "summary": "The ICC has recognised all Season 3 matches as official T20 fixtures, according to The Kathmandu Post. Runs, wickets and other performances from the October 26–November 21 tournament will therefore count in players’ official T20 records. This clarifies CAN’s October 21 announcement.",
+      "source": "The Kathmandu Post",
+      "url": "https://kathmandupost.com/cricket/2026/10/22/icc-recognises-nepal-premier-league-matches-as-list-a-t20-fixtures/"
     },
     {
       "title": "CAN revises Season 3 match start times",
