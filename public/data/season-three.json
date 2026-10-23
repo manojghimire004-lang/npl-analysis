@@ -1,10 +1,26 @@
 {
-  "reviewed_at": "2026-10-22",
+  "reviewed_at": "2026-10-23",
   "starts_at": "2026-10-26T00:00:00+05:45",
   "ends_at": "2026-11-22T00:00:00+05:45",
   "date_label": "26 October – 21 November 2026",
   "venue": "TU International Cricket Stadium, Kirtipur",
   "news": [
+    {
+      "title": "CAN sets Season 3 ticket prices",
+      "category": "League",
+      "published": "2026-10-23",
+      "summary": "CAN set league-stage admission at NPR 500 for general tickets and NPR 1,000 for premium tickets. For the Eliminator and Final, prices rise to NPR 1,000 general and NPR 2,000 premium, according to Onlinekhabar.",
+      "source": "Onlinekhabar English",
+      "url": "https://english.onlinekhabar.com/npl-tickets-price.html"
+    },
+    {
+      "title": "Sahibzada Farhan and Mohammad Saifuddin join Season 3 squads",
+      "category": "Squads",
+      "published": "2026-10-23",
+      "summary": "Karnali Yaks announced Pakistan batter Sahibzada Farhan, while Pokhara Avengers announced Bangladesh all-rounder Mohammad Saifuddin, according to Nepal News. No verified fees were reported, so both overseas signings are excluded from domestic acquisition-cost analysis.",
+      "source": "Nepal News",
+      "url": "https://english.nepalnews.com/s/sports/farhan-from-pakistan-saifuddin-from-bangladesh-to-play-in-npl-3/"
+    },
     {
       "title": "Hussain Talat joins Karnali Yaks",
       "category": "Squads",
@@ -110,12 +126,12 @@
       "url": "https://english.nepalnews.com/s/long-reads/nepal-news-evening-briefing-saturday-october-10-2026/"
     },
     {
-      "title": "Kirtipur ground enters final Season 3 preparations",
+      "title": "Kirtipur stadium upgrades reported complete",
       "category": "League",
       "published": "2026-10-07",
-      "summary": "The TU International Cricket Ground is undergoing final upgrades ahead of Season 3. CAN says the work targets crowd management and facilities for spectators, players, journalists and VIP guests, with completion planned before Dashain.",
+      "summary": "The Kathmandu Post reports that the TU International Cricket Ground upgrades are complete. Improvements include roughly 2,000 additional seats, a covered stand, an LED scoreboard, digital perimeter boards, upgraded dugouts and dining facilities, a media centre, family zone and improved toilets.",
       "source": "The Kathmandu Post",
-      "url": "https://kathmandupost.com/visual-stories/2026/10/07/tu-cricket-ground-gets-makeover-ahead-of-npl-s-third-season"
+      "url": "https://kathmandupost.com/cricket/2026/10/23/what-s-new-in-the-nepal-premier-league-s-third-season"
     },
     {
       "title": "Season 3 mascots connect the league with Nepal",
