@@ -1,10 +1,34 @@
 {
-  "reviewed_at": "2026-10-24",
+  "reviewed_at": "2026-10-25",
   "starts_at": "2026-10-26T00:00:00+05:45",
   "ends_at": "2026-11-22T00:00:00+05:45",
   "date_label": "26 October – 21 November 2026",
   "venue": "TU International Cricket Stadium, Kirtipur",
   "news": [
+    {
+      "title": "CAN raises Season 3 prize money",
+      "category": "League",
+      "published": "2026-10-25",
+      "summary": "CAN announced NPR 15 million for the Season 3 champion, up from NPR 10 million in each of the first two seasons. Second, third and fourth place will receive NPR 8 million, NPR 4 million and NPR 3 million, respectively. These are team prizes, not player acquisition costs.",
+      "source": "The Kathmandu Post",
+      "url": "https://kathmandupost.com/cricket/2026/10/25/npl-season-3-winner-to-get-rs15-million"
+    },
+    {
+      "title": "Fabian Allen and Sam Heazlett join Season 3 squads",
+      "category": "Squads",
+      "published": "2026-10-25",
+      "summary": "Sudurpaschim Royals announced West Indies all-rounder Fabian Allen, while Kathmandu Gorkhas added Australian batter Sam Heazlett, according to Nepal News and Onlinekhabar. No verified fees were reported, so the overseas signings are excluded from domestic acquisition-cost analysis.",
+      "source": "Nepal News and Onlinekhabar English",
+      "url": "https://english.nepalnews.com/s/main-left/nepal-news-evening-briefing-sunday-october-25-2026/"
+    },
+    {
+      "title": "Shivam Tiwari replaces injured Shubh Kansakar at Karnali",
+      "category": "Squads",
+      "published": "2026-10-25",
+      "summary": "Karnali Yaks added Bhaktapur all-rounder Shivam Tiwari as an injury replacement for Shubh Kansakar, who sustained a hand injury, according to Nepal News. No acquisition price was reported, so no domestic cost record has been added.",
+      "source": "Nepal News",
+      "url": "https://english.nepalnews.com/s/main-left/nepal-news-evening-briefing-sunday-october-25-2026/"
+    },
     {
       "title": "Shamim Hossain joins Lumbini Lions",
       "category": "Squads",
@@ -12,6 +36,14 @@
       "summary": "Lumbini Lions announced Bangladesh all-rounder Shamim Hossain Patwary as an overseas signing for Season 3, according to Nepal News. No verified fee was reported, so the signing is excluded from domestic acquisition-cost analysis.",
       "source": "Nepal News",
       "url": "https://english.nepalnews.com/s/sports/npl-3-bangladeshs-cricketer-shamim-hossain-to-play-from-limbini-lions/"
+    },
+    {
+      "title": "Sherfane Rutherford joins Sudurpaschim Royals",
+      "category": "Squads",
+      "published": "2026-10-24",
+      "summary": "Sudurpaschim Royals announced West Indies batter Sherfane Rutherford for Season 3, according to The Kathmandu Post. No verified fee was reported, so the overseas signing is excluded from domestic acquisition-cost analysis.",
+      "source": "The Kathmandu Post",
+      "url": "https://kathmandupost.com/sports/2026/10/24/sherfane-rutherford-joins-sudurpaschim-royals-for-third-npl-season"
     },
     {
       "title": "CAN sets Season 3 ticket prices",
@@ -28,6 +60,14 @@
       "summary": "Karnali Yaks announced Pakistan batter Sahibzada Farhan, while Pokhara Avengers announced Bangladesh all-rounder Mohammad Saifuddin, according to Nepal News. No verified fees were reported, so both overseas signings are excluded from domestic acquisition-cost analysis.",
       "source": "Nepal News",
       "url": "https://english.nepalnews.com/s/sports/farhan-from-pakistan-saifuddin-from-bangladesh-to-play-in-npl-3/"
+    },
+    {
+      "title": "David Miller joins Karnali Yaks",
+      "category": "Squads",
+      "published": "2026-10-23",
+      "summary": "Karnali Yaks announced South African batter David Miller as their sixth overseas player for Season 3, according to The Kathmandu Post. No verified fee was reported, so the signing is excluded from domestic acquisition-cost analysis.",
+      "source": "The Kathmandu Post",
+      "url": "https://kathmandupost.com/sports/2026/10/23/david-miller-joins-karnali-yaks-for-third-npl-season"
     },
     {
       "title": "Hussain Talat joins Karnali Yaks",
