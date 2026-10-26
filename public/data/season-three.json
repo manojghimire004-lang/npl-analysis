@@ -1,10 +1,34 @@
 {
-  "reviewed_at": "2026-10-25",
+  "reviewed_at": "2026-10-26",
   "starts_at": "2026-10-26T00:00:00+05:45",
   "ends_at": "2026-11-22T00:00:00+05:45",
   "date_label": "26 October – 21 November 2026",
   "venue": "TU International Cricket Stadium, Kirtipur",
   "news": [
+    {
+      "title": "Lumbini Lions win the Season 3 opener",
+      "category": "League",
+      "published": "2026-10-26",
+      "summary": "Defending champions Lumbini Lions opened Season 3 with a seven-wicket win over Sudurpaschim Royals. Sudurpaschim were dismissed for 87 in 17.2 overs before Lumbini completed the chase in 9.5 overs. This verified match result is recorded as news; no cost-efficiency conclusion is drawn.",
+      "source": "Nepal News",
+      "url": "https://english.nepalnews.com/s/sports/lumbini-lions-make-a-winning-start-defeat-sudurpaschim-royals-by-7-wickets/"
+    },
+    {
+      "title": "Kusal Perera joins Janakpur Bolts",
+      "category": "Squads",
+      "published": "2026-10-26",
+      "summary": "Janakpur Bolts announced Sri Lanka wicketkeeper-batter Kusal Perera as an overseas signing for Season 3, according to Nepal News. No verified acquisition fee was reported, so the signing is excluded from domestic cost analysis.",
+      "source": "Nepal News",
+      "url": "https://english.nepalnews.com/s/sports/sri-lankan-cricketer-perera-to-play-for-janakpur-bolts-in-npl-3/"
+    },
+    {
+      "title": "Sahibzada Farhan to miss Karnali’s first two matches",
+      "category": "Squads",
+      "published": "2026-10-26",
+      "summary": "Karnali Yaks said Sahibzada Farhan will return to Pakistan and is expected back in Nepal on October 31, causing him to miss matches against Janakpur Bolts and Biratnagar Kings. Separate reports describe uncertainty around PCB clearances for Pakistani players; any reported clearance payment is not treated as an NPL acquisition price.",
+      "source": "The Kathmandu Post",
+      "url": "https://kathmandupost.com/cricket/2026/10/26/pakistan-captain-sahibzada-farhan-to-miss-npl-s-opening-two-matches"
+    },
     {
       "title": "CAN raises Season 3 prize money",
       "category": "League",
@@ -257,7 +281,7 @@
   "milestones": [
     {
       "date": "26 Oct",
-      "label": "Opening match"
+      "label": "Lumbini won opener by 7 wickets"
     },
     {
       "date": "17 Nov",
