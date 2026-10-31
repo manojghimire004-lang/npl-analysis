@@ -1,10 +1,34 @@
 {
-  "reviewed_at": "2026-10-29",
+  "reviewed_at": "2026-10-31",
   "starts_at": "2026-10-26T00:00:00+05:45",
   "ends_at": "2026-11-22T00:00:00+05:45",
   "date_label": "26 October – 21 November 2026",
   "venue": "TU International Cricket Stadium, Kirtipur",
   "news": [
+    {
+      "title": "Biratnagar Kings earn first win in five-over match",
+      "category": "League",
+      "published": "2026-10-31",
+      "summary": "Biratnagar Kings defeated Sudurpaschim Royals by 35 runs in a rain-shortened five-over match. Biratnagar scored 105 for two before restricting Sudurpaschim to 70 for three, securing their first win of Season 3. This verified result is recorded without drawing a cost-efficiency conclusion.",
+      "source": "The Kathmandu Post",
+      "url": "https://kathmandupost.com/cricket/2026/10/31/biratnagar-beat-sudurpaschim-by-35-runs-for-first-npl-win"
+    },
+    {
+      "title": "Rain washes out Lumbini–Chitwan match",
+      "category": "League",
+      "published": "2026-10-31",
+      "summary": "The match between Lumbini Lions and Chitwan Rhinos was abandoned without a toss after persistent rain left the Kirtipur outfield unfit for play. With no reserve day, both teams received one point.",
+      "source": "The Kathmandu Post",
+      "url": "https://kathmandupost.com/sports/2026/10/31/rain-washes-out-lumbini-chitwan-match-on-saturday"
+    },
+    {
+      "title": "Two Pakistani players return home over NOC issue",
+      "category": "Squads",
+      "published": "2026-10-30",
+      "summary": "Iftikhar Ahmed and Hussain Shah returned to Pakistan after reportedly not receiving no-objection certificates from the Pakistan Cricket Board for Season 3. This availability update does not establish or alter any player acquisition price.",
+      "source": "Nepal News",
+      "url": "https://english.nepalnews.com/s/sports/pakistani-cricketers-return-home-after-failing-to-secure-noc-for-npl/"
+    },
     {
       "title": "Karnali Yaks complete last-over chase against Biratnagar",
       "category": "League",
