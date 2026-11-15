@@ -1,10 +1,26 @@
 {
-  "reviewed_at": "2026-11-14",
+  "reviewed_at": "2026-11-15",
   "starts_at": "2026-10-26T00:00:00+05:45",
   "ends_at": "2026-11-22T00:00:00+05:45",
   "date_label": "26 October – 21 November 2026",
   "venue": "TU International Cricket Stadium, Kirtipur",
   "news": [
+    {
+      "title": "Pokhara finish with record total and 55-run victory",
+      "category": "League",
+      "published": "2026-11-15",
+      "summary": "Pokhara Avengers defeated Kathmandu Gorkhas by 55 runs after scoring 224 for three, the highest team total in NPL history, and dismissing Kathmandu for 169. Kushal Bhurtel scored 99 and Yuvraaj Samra made 89. The result left Kathmandu third and confirmed an Eliminator against Chitwan Rhinos. This verified result is recorded without drawing a cost-efficiency conclusion.",
+      "source": "Nepal News",
+      "url": "https://english.nepalnews.com/s/sports/pokhara-avengers-defeat-kathmandu-gorkhas-by-55-runs/"
+    },
+    {
+      "title": "Karnali end campaign with 24-run win over Chitwan",
+      "category": "League",
+      "published": "2026-11-15",
+      "summary": "Karnali Yaks defeated Chitwan Rhinos by 24 runs after posting 153 for eight and bowling Chitwan out for 129 in 19.1 overs. Hussain Talat scored an unbeaten 51 and took three wickets for 17 runs. Chitwan finished fourth despite the defeat. This verified result is recorded without drawing a cost-efficiency conclusion.",
+      "source": "The Kathmandu Post",
+      "url": "https://kathmandupost.com/cricket/2026/11/15/karnali-sign-off-with-consolation-win-as-chitwan-finish-fourth"
+    },
     {
       "title": "Lumbini top league stage as playoff field is finalized",
       "category": "League",
@@ -525,11 +541,11 @@
     },
     {
       "date": "17 Nov",
-      "label": "Qualifier 1"
+      "label": "Qualifier 1: Lumbini vs Sudurpaschim"
     },
     {
       "date": "18 Nov",
-      "label": "Eliminator"
+      "label": "Eliminator: Kathmandu vs Chitwan"
     },
     {
       "date": "19 Nov",
