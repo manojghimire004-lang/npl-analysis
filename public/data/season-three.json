@@ -1,10 +1,18 @@
 {
-  "reviewed_at": "2026-11-16",
+  "reviewed_at": "2026-11-17",
   "starts_at": "2026-10-26T00:00:00+05:45",
   "ends_at": "2026-11-22T00:00:00+05:45",
   "date_label": "26 October – 21 November 2026",
   "venue": "TU International Cricket Stadium, Kirtipur",
   "news": [
+    {
+      "title": "Lumbini reach final with six-wicket Qualifier victory",
+      "category": "League",
+      "published": "2026-11-17",
+      "summary": "Lumbini Lions defeated Sudurpaschim Royals by six wickets in Qualifier 1 to reach their second consecutive NPL final. Sudurpaschim made 105 for eight before Niroshan Dickwella's unbeaten 59 guided Lumbini to 108 for four in 16.4 overs. Sudurpaschim will play the Eliminator winner in Qualifier 2. This verified result is recorded without drawing a cost-efficiency conclusion.",
+      "source": "The Kathmandu Post",
+      "url": "https://kathmandupost.com/sports/2026/11/17/dickwella-steers-lumbini-lions-into-second-successive-npl-final"
+    },
     {
       "title": "George Munsey joins Sudurpaschim for playoffs",
       "category": "Squads",
@@ -549,7 +557,7 @@
     },
     {
       "date": "17 Nov",
-      "label": "Qualifier 1: Lumbini vs Sudurpaschim"
+      "label": "Lumbini beat Sudurpaschim; reached final"
     },
     {
       "date": "18 Nov",
@@ -557,11 +565,11 @@
     },
     {
       "date": "19 Nov",
-      "label": "Qualifier 2"
+      "label": "Qualifier 2: Sudurpaschim vs Eliminator winner"
     },
     {
       "date": "21 Nov",
-      "label": "The final"
+      "label": "Final: Lumbini vs Qualifier 2 winner"
     }
   ],
   "watchlist": [
